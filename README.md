@@ -38,8 +38,11 @@ testing, and an AI rehearsal application.
 ## Portfolio Files
 
 -   `Project-Experience-Overview.docx` -- project experience summary
+- [Project Experience Overview](Project-Experience-Overview.docx)
+  
 -   `QA-Test-Cases-and-Templates.xlsx` -- sample scenarios for voice
     annotation, web testing and AI rehearsal, plus a defect template
+    [QA Test Cases and Templates](QA-Test-Cases-and-Templates.xlsx)
 -   `04-Selenium-Basics/BasicLoginCheck.java` -- introductory Selenium
     Java example
 
