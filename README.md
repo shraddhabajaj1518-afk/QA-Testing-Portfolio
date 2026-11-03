@@ -54,7 +54,4 @@ Selenium WebDriver.
 
 All test cases and defect examples in this repository are independently
 prepared demonstration samples. They are not original employer/client
-documents and are not claimed as executed test results. Do not add
-proprietary test plans, internal requirements, customer data, audio,
-screenshots, credentials, or client-owned artifacts without written
-permission.
+documents and are not claimed as executed test results.
